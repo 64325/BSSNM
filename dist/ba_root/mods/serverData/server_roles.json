@@ -1,0 +1,124 @@
+{
+    "CREATOR": {
+        "value": 10,
+        "commands": [
+            "all"
+        ]
+    },
+    "HOST": {
+        "value": 7,
+        "commands": [
+            "all"
+        ]
+    },
+    "MODERATOR": {
+        "value": 6,
+        "commands": [
+            "info",
+            "list",
+            "mute",
+            "unmute",
+            "mutelist",
+            "ban",
+            "unban",
+            "banlist",
+            "kick",
+            "remove",
+            "prefix",
+            "admin",
+            "vip+",
+            "vip",
+            "deop",
+            "statlist",
+            "toplist",
+            "end",
+            "pause",
+            "restart",
+            "tint",
+            "slowmotion",
+            "maxplayers",
+            "block",
+            "unblock",
+            "duel",
+            "rise",
+            "clean",
+            "powerup",
+            "topcolor"
+        ]
+    },
+    "ADMINISTRATOR": {
+        "value": 4,
+        "commands": [
+            "info",
+            "timer",
+            "pack",
+            "list",
+            "me",
+            "mute",
+            "unmute",
+            "mutelist",
+            "kick",
+            "remove",
+            "prefix",
+            "rgb",
+            "statcolor",
+            "skin",
+            "invisible",
+            "particles",
+            "toplist",
+            "end",
+            "tint",
+            "slowmotion",
+            "duel",
+            "position",
+            "teleport",
+            "hug",
+            "freeze",
+            "shatter",
+            "kill",
+            "rise",
+            "sleep",
+            "heal",
+            "hitpoints",
+            "punch",
+            "bombs",
+            "btime",
+            "bpower",
+            "protection",
+            "slip",
+            "godmode",
+            "drop",
+            "spawn",
+            "ball",
+            "powerup"
+        ]
+    },
+    "VIP": {
+        "value": 2,
+        "commands": [
+            "info",
+            "list",
+            "me",
+            "prefix",
+            "rgb",
+            "statcolor",
+            "skin",
+            "invisible",
+            "toplist",
+            "hug",
+            "rise",
+            "heal",
+            "bombs",
+            "drop",
+            "ball",
+            "powerup"
+        ]
+    },
+    "PLAYER": {
+        "value": 0,
+        "commands": [
+            "info",
+            "rules"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "subject": "HOST",
+        "action": "allow",
+        "type": "reset"
+    },
+    {
+        "subject": "HOST",
+        "action": "allow",
+        "type": "allow"
+    },
+    {
+        "subject": "HOST",
+        "action": "allow",
+        "type": "disallow"
+    },
+    {
+        "subject": "HOST",
+        "action": "allow",
+        "type": "default"
+    },
+    {
+        "subject": "HOST",
+        "action": "allow",
+        "type": "pack"
+    }
+]

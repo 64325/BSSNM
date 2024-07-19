@@ -1,0 +1,23 @@
+{
+    "house": {
+        "commands": [
+            "spawn block size=0.5 d=0.6,-0.25,-0.25",
+            "spawn block size=0.5 d=0.6,-0.25,0.25",
+            "spawn block size=0.5 d=-0.6,-0.25,-0.25",
+            "spawn block size=0.5 d=-0.6,-0.25,0.25",
+            "spawn block size=0.5 d=0.6,0.25,-0.25",
+            "spawn block size=0.5 d=0.6,0.25,0.25",
+            "spawn block size=0.5 d=-0.6,0.25,-0.25",
+            "spawn block size=0.5 d=-0.6,0.25,0.25",
+            "spawn block size=0.5 d=0.25,-0.25,-0.75",
+            "spawn block size=0.5 d=-0.25,-0.25,-0.75",
+            "spawn block size=0.5 d=0.25,0.25,-0.75",
+            "spawn block size=0.5 d=-0.25,0.25,-0.75",
+            "spawn plate d=0,1,0 size=1.7",
+            "spawn plate d=0,1.25,0 size=1.4",
+            "spawn plate d=0,1.5,0 size=1.1",
+            "spawn plate d=0,1.75,0 size=0.8",
+            "spawn plate d=0,2,0 size=0.5"
+        ]
+    }
+}
